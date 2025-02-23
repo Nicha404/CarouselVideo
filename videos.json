@@ -1,0 +1,58 @@
+{
+  "videos": [
+    {
+      "id": "1",
+      "title": "1",
+      "description": "11",
+      "thumbnailURL": "https://configurator.porsche.com/model-start/pictures/911/extcam01.webp",
+      "iconName": "pano",
+      "duration": "1:30",
+      "videoURL": "https://example.com/video1.m3u8"
+    },
+    {
+      "id": "2",
+      "title": "22",
+      "description": "Video description",
+      "thumbnailURL": "https://images-porsche.imgix.net/-/media/18BDB8E5546C4BA4A12F88891D661876_76C4D93742CD42E8BEBE222C39477D82_911-carrera-4-gts-front?w=999&q=85&auto=format",
+      "iconName": "cube",
+      "duration": "2:30",
+      "videoURL": "https://example.com/video1.m3u8"
+    },
+    {
+      "id": "3",
+      "title": "Video Title",
+      "description": "Video description",
+      "thumbnailURL": "https://example.com/image1.jpg",
+      "iconName": "pano",
+      "duration": "5:30",
+      "videoURL": "https://example.com/video1.m3u8"
+    },
+    {
+      "id": "4",
+      "title": "Video Title",
+      "description": "Video description",
+      "thumbnailURL": "https://example.com/image1.jpg",
+      "iconName": "pano",
+      "duration": "5:30",
+      "videoURL": "https://example.com/video1.m3u8"
+    },
+    {
+      "id": "5",
+      "title": "Video Title",
+      "description": "Video description",
+      "thumbnailURL": "https://example.com/image1.jpg",
+      "iconName": "pano",
+      "duration": "5:30",
+      "videoURL": "https://example.com/video1.m3u8"
+    },
+    {
+      "id": "6",
+      "title": "Video Title",
+      "description": "Video description",
+      "thumbnailURL": "https://example.com/image1.jpg",
+      "iconName": "pano",
+      "duration": "5:30",
+      "videoURL": "https://example.com/video1.m3u8"
+    }
+  ]
+}
