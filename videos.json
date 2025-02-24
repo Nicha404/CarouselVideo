@@ -2,11 +2,11 @@
   "videos": [
     {
       "id": "1",
-      "title": "1",
-      "description": "11",
-      "thumbnailURL": "https://configurator.porsche.com/model-start/pictures/911/extcam01.webp",
+      "title": "Premier League Live: Man City vs Arsenal",
+      "description": "Premier League Live: Man City vs Arsenal",
+      "thumbnailURL": "https://www.economist.com/cdn-cgi/image/width=1424,quality=80,format=auto/content-assets/images/20240427_BLP518.jpg",
       "iconName": "pano",
-      "duration": "1:30",
+      "duration": "11:30",
       "videoURL": "https://stream.spatialgen.com/stream/HxGrhpWV3Hk7vYGRJGigd/index.m3u8"
     },
     {
