@@ -26,33 +26,6 @@
       "iconName": "pano",
       "duration": "5:30",
       "videoURL": "https://example.com/video1.m3u8"
-    },
-    {
-      "id": "4",
-      "title": "Video Title",
-      "description": "Video description",
-      "thumbnailURL": "https://example.com/image1.jpg",
-      "iconName": "pano",
-      "duration": "5:30",
-      "videoURL": "https://example.com/video1.m3u8"
-    },
-    {
-      "id": "5",
-      "title": "Video Title",
-      "description": "Video description",
-      "thumbnailURL": "https://example.com/image1.jpg",
-      "iconName": "pano",
-      "duration": "5:30",
-      "videoURL": "https://example.com/video1.m3u8"
-    },
-    {
-      "id": "6",
-      "title": "Video Title",
-      "description": "Video description",
-      "thumbnailURL": "https://example.com/image1.jpg",
-      "iconName": "pano",
-      "duration": "5:30",
-      "videoURL": "https://example.com/video1.m3u8"
     }
   ]
 }
